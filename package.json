@@ -1,0 +1,16 @@
+{
+  "name": "candidate-service",
+  "version": "1.0.0",
+  "description": "REST API AWS serverless boilerplate",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "local": "serverless offline",
+    "deploy": "serverless deploy"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^1.72.0",
+    "serverless-offline": "^6.4.0"
+  }
+}
